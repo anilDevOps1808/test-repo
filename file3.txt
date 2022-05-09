@@ -1,1 +1,9 @@
 welcome to devops training
+
+
+hello
+hai
+bye
+
+
+
